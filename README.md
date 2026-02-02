@@ -49,14 +49,15 @@ Day-001/
 ---
 
 ## 📈 Progress Tracker
+## 🗂️ Progress Tracker
 
-| Day | Topic |
-|----|------|
-| Day 001 | Java introduction & setup |
-| Day 002 | Variables & data types |
-| Day 003 | Input & output |
-| Day 004 | Operators |
-| Day 005 | Conditional statements |
+| Day | Topic | Status | Link |
+|----|------|--------|------|
+| Day 01 | Java Introduction & Hello World | ✅ Completed | [View](./Day-001) |
+| Day 02 | Variables & Data Types | ✅ Completed | [View](./Day-002) |
+| Day 03 | Operators in Java | ⏳ Upcoming | — |
+| Day 04 | Control Statements | ⏳ Upcoming | — |
+| Day 05 | Loops | ⏳ Upcoming | — |
 | ... | ... |
 | Day 100 | 🎉 Challenge completed |
 
