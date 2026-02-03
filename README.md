@@ -1,77 +1,77 @@
-# 🚀 100 Days of Java Journey
+# Day 03 – Input & Output in Java (Scanner Class) 🖥️
 
-Welcome to my **100 Days of Java Journey** 👋  
-<p>
-<img src="https://raw.githubusercontent.com/AswinBarath/100-days-of-code-challenge/master/assets/%23100DaysOfCode%20-%20Dark%20design.png" alt="100 Days of Code" />
-</p>
-
-This repository documents my daily commitment to learning Java from scratch
-and building a strong foundation to become a **job-ready Java Developer**.
-
-This is not a tutorial dump.  
-This is my **real learning journey**, documented one day at a time — with
-discipline, clarity, and consistency.
+Welcome to **Day 03** of my **100 Days of Java Journey** 🚀  
+Today I learned how to take **user input** in Java using the **Scanner class**, which is essential for building interactive programs.
 
 ---
 
-## 🎯 Objectives of This Challenge
-- Build a strong foundation in **Core Java**
-- Develop logical thinking and **problem-solving skills**
-- Write **clean, readable, and interview-ready code**
-- Stay consistent on GitHub for 100 days
-- Create a portfolio that reflects **growth and dedication**
+## 📌 Why Input/Output is Important?
+
+- Real applications **interact with users**
+- Helps in understanding **data flow**
+- Forms the base for **logic, conditions, and loops**
 
 ---
 
-## 🗂️ Repository Structure
+## 📥 Taking Input in Java
 
-Day-001/
-├── README.md → Daily learning notes & concepts
-└── Code.java → Java implementation
+Java provides the `Scanner` class from the `java.util` package to read input from the keyboard.
 
+### Step 1: Import Scanner
 
-- Each folder represents **one day of learning**
-- Every day includes:
-  - 📘 Clear explanations (README)
-  - 💻 Practical Java code
-- Notes are **short, structured, and interview-focused**
+```java
+import java.util.Scanner;
+Step 2: Create Scanner Object
+Scanner sc = new Scanner(System.in);
+🔡 Common Scanner Methods
+Method	Description
+nextInt()	Reads integer
+nextDouble()	Reads decimal
+next()	Reads single word
+nextLine()	Reads full line
+nextBoolean()	Reads true/false
+⚠️ Important Scanner Gotcha (Interview Favorite)
+sc.nextLine();
+This is required after nextInt() or nextDouble() to consume the leftover newline.
 
----
+💻 Program Demonstrated
+📄 ScannerInputDemo.java
 
-## 🛠️ Tech Stack (Evolving)
-- Java
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Git & GitHub
+This program:
 
-*(Spring Boot & Full Stack coming next)*
+Takes user name
 
----
+Takes age, height, salary
 
-## 📈 Progress Tracker
-## 🗂️ Progress Tracker
+Prints formatted output
 
-| Day | Topic | Status | Link |
-|----|------|--------|------|
-| Day 01 | Java Introduction & Hello World | ✅ Completed | [View](./Day-001) |
-| Day 02 | Variables & Data Types | ✅ Completed | [View](./Day-002) |
-| Day 03 | Operators in Java | ⏳ Upcoming | — |
-| Day 04 | Control Statements | ⏳ Upcoming | — |
-| Day 05 | Loops | ⏳ Upcoming | — |
-| ... | ... |
-| Day 100 | 🎉 Challenge completed |
+🧠 Key Learnings
+Scanner reads input from System.in
 
----
+nextLine() behaves differently than next()
 
-## 🧠 Why This Repository?
-Consistency beats intensity.
+Always close Scanner after use
 
-This repository is proof that I **show up every day**, learn something new,
-and document it properly — even when progress feels small.
+🎯 Interview Questions
+Q1: Why Scanner is slow?
+Answer:
+It performs parsing and synchronization, which makes it slower than BufferedReader.
 
-If you’re a recruiter, mentor, or fellow learner —  
-feel free to explore ⭐
+Q2: Difference between next() and nextLine()?
+Answer:
+next() → reads one word
+nextLine() → reads entire line
 
----
+Q3: What happens if Scanner is not closed?
+Answer:
+Resource leak may occur.
 
-📌 *Started with zero. Built with discipline.*
+Q4: Which package contains Scanner?
+Answer:
+java.util
+
+✅ Day 03 Status
+✔ Learned user input
+✔ Used multiple Scanner methods
+✔ Built interactive program
+```
