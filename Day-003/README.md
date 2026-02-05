@@ -1,3 +1,4 @@
+
 # Day 03 – Input & Output in Java (Scanner Class) 🖥️
 
 Welcome to **Day 03** of my **100 Days of Java Journey** 🚀  
