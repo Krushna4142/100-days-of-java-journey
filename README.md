@@ -32,16 +32,15 @@ My goal is to:
 
 ---
 
-## 📋 Project Roadmap (So Far)
 
-| Day | Topic | Status |
-|-----|-------|--------|
-| Day 001 | Java Introduction & Hello World | ✅ |
-| Day 002 | Variables & Data Types | ✅ |
-| Day 003 | Input using Scanner | ✅ |
-| Day 004 | Operators in Java | ✅ |
-| Day 005 | If-Else Decision Making | ✅ |
-<!-- continue adding here as you progress -->
+## 📅 Daily Progress Tracker
+
+- 🔹 [Day 001 – Java Introduction & Hello World](./Day-001)
+- 🔹 [Day 002 – Variables & Data Types](./Day-002)
+- 🔹 [Day 003 – Input using Scanner](./Day-003)
+- 🔹 [Day 004 – Operators in Java](./Day-004)
+- 🔹 [Day 005 – If-Else Decision Making](./Day-005)
+
 
 > *More days will be added here with link to their folders as this journey continues.*
 
@@ -109,19 +108,47 @@ javac MyFileName.java
 java MyFileName
 Replace MyFileName with the Java file in each Day folder.
 
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Krushna4142&show_icons=true&theme=dark" height="160" /> <br/> <img src="https://streak-stats.demolab.com?user=Krushna4142&theme=dark" height="160" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krushna4142&layout=compact&theme=dark" /> </p>
-📎 Connect With Me
-If you find this repo useful or want to connect:
+## 📈 GitHub Stats
 
-GitHub: https://github.com/Krushna4142
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Krushna4142&show_icons=true&theme=dark&hide_border=true"
+    height="160"
+  />
+</p>
 
-LinkedIn: https://www.linkedin.com/in/krushna4142
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=Krushna4142&theme=dark&hide_border=true"
+    height="160"
+  />
+</p>
 
-Email: krushnanawale4142@gmail.com
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krushna4142&layout=compact&theme=dark&hide_border=true"
+  />
+</p>
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Krushna4142" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/krushna4142" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:krushnanawale4142@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 📌 Final Note
 This repository is more than just code — it’s a daily commitment to improving as a developer.
 I believe learning with discipline and documenting clearly is the key to mastery.
 
 💪 Let’s keep learning and building — one day at a time!
+
