@@ -40,7 +40,7 @@ My goal is to:
 - 🔹 [Day 003 – Input using Scanner](./Day-003)
 - 🔹 [Day 004 – Operators in Java](./Day-004)
 - 🔹 [Day 005 – If-Else Decision Making](./Day-005)
-
+- 🔹 [Day 006 – Else-If Ladder & Switch Statement](./Day-006)
 
 > *More days will be added here with link to their folders as this journey continues.*
 
@@ -151,4 +151,5 @@ This repository is more than just code — it’s a daily commitment to improvin
 I believe learning with discipline and documenting clearly is the key to mastery.
 
 💪 Let’s keep learning and building — one day at a time!
+
 
