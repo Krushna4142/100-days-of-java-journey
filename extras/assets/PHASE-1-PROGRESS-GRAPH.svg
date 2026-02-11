@@ -1,0 +1,37 @@
+<svg width="700" height="400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#0d1117" />
+
+  <!-- Title -->
+  <text x="350" y="40" font-size="24" fill="#58a6ff" text-anchor="middle" font-family="Arial">
+    Phase 1 Progress — Day 1 to Day 10
+  </text>
+
+  <!-- Axes -->
+  <line x1="100" y1="320" x2="600" y2="320" stroke="#8b949e" stroke-width="2" />
+  <line x1="100" y1="80" x2="100" y2="320" stroke="#8b949e" stroke-width="2" />
+
+  <!-- Bars -->
+  <rect x="130" y="260" width="40" height="60" fill="#238636" />
+  <rect x="190" y="240" width="40" height="80" fill="#238636" />
+  <rect x="250" y="220" width="40" height="100" fill="#238636" />
+  <rect x="310" y="200" width="40" height="120" fill="#238636" />
+  <rect x="370" y="170" width="40" height="150" fill="#238636" />
+  <rect x="430" y="140" width="40" height="180" fill="#238636" />
+  <rect x="490" y="110" width="40" height="210" fill="#238636" />
+  <rect x="550" y="90" width="40" height="230" fill="#238636" />
+
+  <!-- Labels -->
+  <text x="130" y="345" fill="#c9d1d9" font-size="12">D1-2</text>
+  <text x="190" y="345" fill="#c9d1d9" font-size="12">D3-4</text>
+  <text x="250" y="345" fill="#c9d1d9" font-size="12">D5</text>
+  <text x="310" y="345" fill="#c9d1d9" font-size="12">D6</text>
+  <text x="370" y="345" fill="#c9d1d9" font-size="12">D7</text>
+  <text x="430" y="345" fill="#c9d1d9" font-size="12">D8</text>
+  <text x="490" y="345" fill="#c9d1d9" font-size="12">D9</text>
+  <text x="550" y="345" fill="#c9d1d9" font-size="12">D10</text>
+
+  <!-- Y Axis Label -->
+  <text x="30" y="200" fill="#c9d1d9" font-size="14" transform="rotate(-90 30,200)">
+    Skill Growth Level
+  </text>
+</svg>
