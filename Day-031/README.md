@@ -2,6 +2,7 @@ Day 031 – ArrayList Deep Dive give me readdme file
 
 <div align="center">
 
+
 # 📅 Day 031 — ArrayList Deep Dive
 
 ### Understanding Dynamic Arrays in Java
@@ -14,6 +15,7 @@ Day 031 – ArrayList Deep Dive give me readdme file
 </div>
 
 ---
+
 
 ## 🔗 Quick Navigation
 
