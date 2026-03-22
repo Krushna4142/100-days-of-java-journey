@@ -1,37 +1,79 @@
-# 🚀 100 Days of Java – A Daily Learning Journey
+<div align="center">
 
-Welcome to my **100 Days of Java Journey**, where I consistently learn, code and document Java fundamentals one day at a time.
+  <br />
+    <img src="./extras/assets/repo.png" alt="Java 100 Days Banner" width="650">
+  <br />
 
-This repo is part of a **commitment to disciplined learning, real understanding, and practical skills**, not just random code dumps.
+  <div>
+    <img src="https://img.shields.io/badge/Java-100_Days-orange?style=for-the-badge&logo=java" />
+    <img src="https://img.shields.io/badge/Challenge-Daily_Coding-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Consistency-High-success?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Learning-Disciplined-informational?style=for-the-badge" />
+  </div>
+
+  <h3 align="center">100 Days of Java – A Daily Learning Journey</h3>
+
+  <p align="center">
+    Building strong Java fundamentals through daily coding, consistency, and structured learning.
+  </p>
+
+</div>
 
 ---
 
-## 🧠 What This Challenge Is About
+## 📋 Table of Contents
 
-This challenge is inspired by the global **100 Days of Code movement** where developers commit to coding daily and sharing progress publicly.  
-My goal is to:
+1. 📘 [Introduction](#introduction)
+2. 🎯 [Goals & Outcomes](#goals--outcomes)
+3. 📜 [Rules I Follow](#rules-i-follow)
+4. 📅 [Daily Progress Tracker](#daily-progress-tracker)
+5. 🗂️ [Repository Structure](#repository-structure)
+6. ⭐ [What Makes This Different](#what-makes-this-different)
+7. 🛠️ [How to Use This Repository](#how-to-use-this-repository)
+8. 📦 [How to Run the Programs](#how-to-run-the-programs)
+9. 📈 [GitHub Stats](#github-stats)
+10. 🔗 [Connect With Me](#connect-with-me)
+11. 🚀 [Closing Note](#closing-note)
 
-✔ Build strong Core Java fundamentals  
-✔ Practice daily real programs  
-✔ Document learning clearly  
-✔ Build recruiter-friendly code + explanations  
-✔ Bridge gap between theory and practice  
+---
+
+## 📘 Introduction
+
+Welcome to my **100 Days of Java Journey**, where I consistently learn, code, and document Java fundamentals one day at a time.
+
+This repository is built with a focus on **discipline, clarity, and real understanding**, not just random code uploads.
+
+It represents a structured approach to becoming better in:
+
+- Core Java
+- Problem-solving
+- Writing clean and readable code
+- Building strong programming habits
+
+---
+
+## 🎯 Goals & Outcomes
+
+- Build strong Core Java fundamentals
+- Practice daily real programs
+- Document learning clearly
+- Write recruiter-friendly code and explanations
+- Bridge the gap between theory and practical implementation
 
 ---
 
 ## 📜 Rules I Follow
 
-1. Write Java code **every single day**  
-2. Create a dedicated folder for each day  
+1. Write Java code **every single day**
+2. Create a dedicated folder for each day
 3. Include:
    - Java source code
    - Clear explanation in `README.md`
-4. Use meaningful commit messages  
-5. Never skip documentation  
-6. Present progress publicly on GitHub
+4. Use meaningful commit messages
+5. Never skip documentation
+6. Maintain consistency publicly on GitHub
 
 ---
-
 
 ## 📅 Daily Progress Tracker
 
@@ -42,116 +84,69 @@ My goal is to:
 - 🔹 [Day 005 – If-Else Decision Making](./Day-005)
 - 🔹 [Day 006 – Else-If Ladder & Switch Statement](./Day-006)
 
-> *More days will be added here with link to their folders as this journey continues.*
+> More days will be added continuously as the journey progresses.
 
 ---
 
-## 📁 Organized Folder Structure
+## 🗂️ Repository Structure
 
-Each day has a directory that contains:
-- A Java program focused on that day’s topic  
-- A `README.md` explaining the concept and output
-
+```text
 100-days-of-java/
-```
-│
 ├── Day-001/
-│ ├── HelloWorld.java
-│ └── README.md
+│   ├── HelloWorld.java
+│   └── README.md
 │
 ├── Day-002/
-│ ├── VariablesDemo.java
-│ └── README.md
+│   ├── VariablesDemo.java
+│   └── README.md
+│
+├── Day-003/
+│   ├── ScannerInput.java
+│   └── README.md
 │
 ├── Day-005/
-│ ├── IfElseProgram.java
-│ └── README.md
+│   ├── IfElseProgram.java
+│   └── README.md
 │
 └── README.md
-
 ```
----
 
-## 📌 Why This Approach Works
+Each folder represents one day = one concept + one implementation.
 
-Most 100-day challenge repos either just dump code or lack explanations.  
-This repo stands out because it has:
+## ⭐ What Makes This Different
 
-✔ Daily explanations that are easy to understand  
-✔ Recruiter-friendly structure  
-✔ A story that *shows progress*  
-✔ Practical, readable code  
-✔ Documented learning for each day  
-✔ Consistent commit messages
+- Daily structured learning approach
+- Clear explanations along with code
+- Focus on fundamentals over shortcuts
+- Clean and readable code practices
+- Consistent and disciplined progress tracking
 
-This mirrors the structure and clarity seen in high-quality challenge repos — but tailored to focus on **Java fundamentals with explanations at every step**
+## 🛠️ How to Use This Repository
 
----
-
-## ✨ How to Use This Repo
-
-If you’re just starting Java or you want to follow along:
-
-1. Begin with `Day-001/README.md`  
-2. Read the explanation  
-3. Open the Java code and run it locally  
-4. Understand outputs and edge cases  
-5. Try variations of the code
-
----
+- Start from Day 001
+- Read the README for concept clarity
+- Open and understand the Java code
+- Run the program locally
+- Try modifying and experimenting
 
 ## 📦 How to Run the Programs
 
-Each program can be compiled and run using:
+Compile and run using:
 
-```bash
-javac MyFileName.java
-java MyFileName
-Replace MyFileName with the Java file in each Day folder.
-```
+javac FileName.java
+java FileName
+
+Replace FileName with the actual Java file name.
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Krushna4142&show_icons=true&theme=dark&hide_border=true"
-    height="160"
-  />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Krushna4142&show_icons=true&theme=dark&hide_border=true" height="160" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=Krushna4142&theme=dark&hide_border=true" height="160" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krushna4142&layout=compact&theme=dark&hide_border=true" /> </p>
+🔗 Connect With Me
+<p align="center"> <a href="https://github.com/Krushna4142" target="_blank"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/krushna4142" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:krushnanawale4142@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+## 🚀 Closing Note
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=Krushna4142&theme=dark&hide_border=true"
-    height="160"
-  />
-</p>
+This repository is more than just code — it reflects a daily commitment to growth.
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krushna4142&layout=compact&theme=dark&hide_border=true"
-  />
-</p>
+Learning with discipline and documenting clearly is the key to mastering any skill.
 
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/Krushna4142" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/krushna4142" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:krushnanawale4142@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-📌 Final Note
-This repository is more than just code — it’s a daily commitment to improving as a developer.
-I believe learning with discipline and documenting clearly is the key to mastery.
-
-💪 Let’s keep learning and building — one day at a time!
-
-
+One day at a time. One concept at a time. One step closer to becoming a better developer.
