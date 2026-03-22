@@ -53,6 +53,7 @@ Each day has a directory that contains:
 - A `README.md` explaining the concept and output
 
 100-days-of-java/
+```
 │
 ├── Day-001/
 │ ├── HelloWorld.java
@@ -68,7 +69,7 @@ Each day has a directory that contains:
 │
 └── README.md
 
-
+```
 ---
 
 ## 📌 Why This Approach Works
@@ -107,6 +108,7 @@ Each program can be compiled and run using:
 javac MyFileName.java
 java MyFileName
 Replace MyFileName with the Java file in each Day folder.
+```
 
 ## 📈 GitHub Stats
 
