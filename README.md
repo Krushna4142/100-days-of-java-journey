@@ -143,6 +143,7 @@ Replace FileName with the actual Java file name.
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Krushna4142&show_icons=true&theme=dark&hide_border=true" height="160" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=Krushna4142&theme=dark&hide_border=true" height="160" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krushna4142&layout=compact&theme=dark&hide_border=true" /> </p>
 🔗 Connect With Me
 <p align="center"> <a href="https://github.com/Krushna4142" target="_blank"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/krushna4142" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:krushnanawale4142@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+
 ## 🚀 Closing Note
 
 This repository is more than just code — it reflects a daily commitment to growth.
